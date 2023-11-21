@@ -4,6 +4,9 @@ function titleCase(inputString) {
   //2.1 Make the item as Lowercase fully
   //2.2 then Make the first letter Capitial using UpperCase
   //3. Add all the elements in the array into a string - each word will be appending with other with a space in between
+  if (inputString.length < 1) return '';
+  //remove white spaces
+  inputString = inputString.trim();
   stringArray = inputString.split(' ');
   for (let i = 0; i < stringArray.length; i++) {
     const tempStr = stringArray[i].toLowerCase();
