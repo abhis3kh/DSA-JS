@@ -23,6 +23,5 @@ function sumOfEvenSquares(numsArray) {
   // Step 4: Return the total sum of squared even numbers
   return sumOfSquaredEvenNumbers;
 }
-console.log(sumOfEvenSquares([1, 2, 3, 4, 5]));
 
 module.exports = sumOfEvenSquares;
