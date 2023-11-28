@@ -1,4 +1,4 @@
-# JS Challenges, Data Structures, and Algorithms
+# Abhisekh JS Challenges, Data Structures, and Algorithms - Tracker
 
 This course/repo goes over everything from basic loop challenges, recursion, complexity, data structures, and algorithms. It is meant to be a complete course on the subject. It is not meant to be a course on JavaScript fundamentals. You should already know the basics of JavaScript.
 
