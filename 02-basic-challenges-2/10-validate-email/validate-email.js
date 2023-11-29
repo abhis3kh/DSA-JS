@@ -12,6 +12,5 @@ function validateEmail(inputString) {
   }
   return isEmail;
 }
-console.log(validateEmail('john@gmail.com')); // true
-console.log(validateEmail('john@gmail')); // false
+
 module.exports = validateEmail;

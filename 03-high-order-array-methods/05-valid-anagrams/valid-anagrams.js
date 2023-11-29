@@ -6,5 +6,5 @@ function validAnagrams(firstString, secondString) {
   }
   return true;
 }
-console.log(validAnagrams('hello', 'world'));
+
 module.exports = validAnagrams;
